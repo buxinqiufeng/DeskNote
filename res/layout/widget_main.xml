@@ -8,6 +8,7 @@
         android:id="@+id/noteview"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
+        android:lineSpacingExtra="4dip"
         android:padding="10dip" />
 
 </RelativeLayout>
